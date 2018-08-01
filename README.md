@@ -13,5 +13,5 @@ Jump to the root directory of source code which contains pom.xml in Terminal
 + Solution 2: Using Maven
   * mvn spring-boot:run
 
-+ Solution 3: Using executable WAR
++ Solution 3: Packaging and Running WAR
   * mvn clean package && java -jar target/multi-modules-0.0.1-SNAPSHOT.war
