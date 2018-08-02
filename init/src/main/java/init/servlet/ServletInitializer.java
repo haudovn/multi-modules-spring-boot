@@ -1,5 +1,6 @@
-package com.hdo.multi.modules;
+package init.servlet;
 
+import init.MultiModulesApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
